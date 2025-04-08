@@ -1,8 +1,6 @@
 # 🤖 Chatbot Integrado com Flowise, n8n e React.js  
 
-**Projeto de integração** entre Flowise (IA/NLP), n8n (automação) e React.js (frontend) para criar um chatbot inteligente e escalável.  
-
-👉 **Vídeo de demonstração**: [Assista no YouTube](https://www.youtube.com/watch?v=PW_vTQwa3SA)  
+**Projeto de integração** entre Flowise (IA/NLP), n8n (automação) e React.js (frontend) para criar um chatbot inteligente e escalável.
 
 ---
 
